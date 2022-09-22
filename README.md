@@ -14,31 +14,13 @@ Summary data for the Potsdam Commentary Corpus.
 
 If you use these summaries please cite the following paper:
 
-@inproceedings{hewett-stede-2022-extractive,
-    author = "Hewett, Freya and Stede, Manfred",
-    title = "Extractive summarisation for {G}erman-language data: a text-level approach with discourse features",
-    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics (COLING)",
-    year = "2022",
-    keywords = "",
-    note = "To appear"
-}
-
-Hewett, F., & Stede, M. (2021). [Automatically evaluating the conceptual complexity of German texts](https://aclanthology.org/2021.konvens-1.23.pdf). *Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)*, 228–234.
+Freya Hewett and Manfred Stede. Extractive summarisation for German-language data: a text-level approach with discourse features. In *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. To appear.
 
 If you use anything from the original corpus please cite the following paper:
 
-@inproceedings{bourgonje-stede-lrec2020,
-    author = "Bourgonje, Peter and Stede, Manfred",
-    title = "{The Potsdam Commentary Corpus 2.2: Extending Annotations for Shallow Discourse Parsing}",
-    booktitle = "Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020)",
-    year = "2020",
-    month = "May",
-    location = "Marseille, France",
-    publisher = "European Language Resources Association (ELRA)",
-    address = "Marseille, France",
-    keywords = "",
-    pdf = "https://www.aclweb.org/anthology/2020.lrec-1.133.pdf"
-}
+Peter Bourgonje and Manfred Stede. [The Potsdam Commentary Corpus 2.2: Extending Annotations for Shallow Discourse Parsing](https://aclanthology.org/2020.lrec-1.133.pdf). In *Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020)*. Marseille, France, May 2020. European Language Resources Association (ELRA).
+
+
 
 
 
