@@ -10,6 +10,10 @@ Summary data for the Potsdam Commentary Corpus.
 
 - For a small subset of 30 texts, we got two annotations per text. We harmonised these using a scoring system. The highest ranked sentence was equivalent to 3 points, the second to 2 and the third to 1. The sentence with the most points was then deemed the highest ranked sentence in the harmonised annotation, and so on. Any tied scores were resolved by randomly selecting one of the sentences in the tie. 
 
+## About the files
+
+We have provided the corpus in JSON format. The JSON file contains the original file name and the rankings for the three sentences. We have also provided text files for each individual text with the three sentences that form the summary on a new line.
+
 ## How to cite
 
 If you use these summaries please cite the following paper:
